@@ -20,3 +20,7 @@
   <a href="https://www.linkedin.com/in/daiane-arruda-7a8a04115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+
+[![Spotify](https://novatorem-daianearruda90-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
