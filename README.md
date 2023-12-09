@@ -1,4 +1,4 @@
-<div align="center">
+<div >
   
   ## Oiii eu sou a Daiane Arruda 💙
 
@@ -26,14 +26,14 @@
 
 
 
+<div>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+*Estou ouvindo agora:* 🎧
   
 </div>
 
-<div align="center">
+<div>
+
 
  [![Spotify](https://novatorem-daianearruda90-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
   
